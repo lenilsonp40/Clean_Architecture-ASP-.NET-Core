@@ -3942,11 +3942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Estudos\\Dev\\GitHub\\Csharp_DotNet-Macoratti\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+      "projectUniqueName": "C:\\Estudos\\Dev\\GitHub\\Csharp_DotNet-Macoratti\\APICatalogo\\APICatalogo.csproj",
       "projectName": "APICatalogo",
-      "projectPath": "C:\\Estudos\\Dev\\GitHub\\Csharp_DotNet-Macoratti\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+      "projectPath": "C:\\Estudos\\Dev\\GitHub\\Csharp_DotNet-Macoratti\\APICatalogo\\APICatalogo.csproj",
       "packagesPath": "C:\\Users\\lenil\\.nuget\\packages\\",
-      "outputPath": "C:\\Estudos\\Dev\\GitHub\\Csharp_DotNet-Macoratti\\APICatalogo\\APICatalogo\\APICatalogo\\obj\\",
+      "outputPath": "C:\\Estudos\\Dev\\GitHub\\Csharp_DotNet-Macoratti\\APICatalogo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenil\\AppData\\Roaming\\NuGet\\NuGet.Config",
