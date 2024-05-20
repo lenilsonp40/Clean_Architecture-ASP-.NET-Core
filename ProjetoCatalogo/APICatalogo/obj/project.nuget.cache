@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+7yGuThew8V26rYF/r0g9mflZ9bAFC07VzvGkTH7vuDeO+9N9myYXCSOEU7xRQbiIAgGTJoeCACLp/FkSFdkOg==",
+  "dgSpecHash": "MOd5R0eXSoBSCEHPxQKvY9wrm1Ux+9T8I4GARQwNo1VgoBjh802lgDkK7FH+GCahdh5ym98x9O7rYW/6U0hc1Q==",
   "success": true,
-  "projectFilePath": "C:\\Estudos\\Dev\\GitHub\\Macorrati\\ProjetoCatalogo\\APICatalogo\\APICatalogo.csproj",
+  "projectFilePath": "C:\\Estudos\\Dev\\GitHub\\DotNet_Curso_Macoratti\\ProjetoCatalogo\\APICatalogo\\APICatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenil\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\lenil\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

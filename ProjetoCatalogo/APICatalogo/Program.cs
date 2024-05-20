@@ -3,10 +3,14 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configure Db
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer("Server=localhost,1433;Database=APICatalogo;User Id=sa;Password=1q2w3e4r@#$;Trust Server Certificate=True;")
-);
+// Configure Db.
+
+builder.Services.AddDbContext<AppDbContext>(options => {
+    // options.UseSqlServer("Server=localhost,1433;Database=CodigoDeAutorizacao;User Id=sa;Password=1q2w3e4r@#$;Trust Server Certificate=True;");
+    options.UseSqlServer("Data Source=LENILSONNOTE\\SQLEXPRESS;Initial Catalog=CatalogoDB;Integrated Security=True;Trust Server Certificate=True;");
+
+});
+
 
 // Add services to the container.
 
