@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configure Db.
+// Configure Db
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer("Server=localhost,1433;Database=APICatalogo;User Id=sa;Password=1q2w3e4r@#$;Trust Server Certificate=True;")
 );
