@@ -514,9 +514,10 @@ C:\Estudos\Dev\GitHub\Macorrati\ProjetoCatalogo\APICatalogo\obj\Debug\net6.0\sta
 C:\Estudos\Dev\GitHub\Macorrati\ProjetoCatalogo\APICatalogo\obj\Debug\net6.0\staticwebassets.build.json
 C:\Estudos\Dev\GitHub\Macorrati\ProjetoCatalogo\APICatalogo\obj\Debug\net6.0\staticwebassets.development.json
 C:\Estudos\Dev\GitHub\Macorrati\ProjetoCatalogo\APICatalogo\obj\Debug\net6.0\scopedcss\bundle\APICatalogo.styles.css
-C:\Estudos\Dev\GitHub\Macorrati\ProjetoCatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.csproj.CopyComplete
 C:\Estudos\Dev\GitHub\Macorrati\ProjetoCatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.dll
 C:\Estudos\Dev\GitHub\Macorrati\ProjetoCatalogo\APICatalogo\obj\Debug\net6.0\refint\APICatalogo.dll
 C:\Estudos\Dev\GitHub\Macorrati\ProjetoCatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.pdb
 C:\Estudos\Dev\GitHub\Macorrati\ProjetoCatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.genruntimeconfig.cache
 C:\Estudos\Dev\GitHub\Macorrati\ProjetoCatalogo\APICatalogo\obj\Debug\net6.0\ref\APICatalogo.dll
+C:\Estudos\Dev\GitHub\Macorrati\ProjetoCatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.sourcelink.json
+C:\Estudos\Dev\GitHub\Macorrati\ProjetoCatalogo\APICatalogo\obj\Debug\net6.0\APICatal.C7776A93.Up2Date
