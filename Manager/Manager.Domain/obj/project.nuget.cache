@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wz3As8tu2Y8=",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\Dev\\GitHub\\Arquitetura Limpa com .NET\\Manager\\Manager.Domain\\Manager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenil\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
