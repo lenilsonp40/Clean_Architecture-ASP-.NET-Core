@@ -19,12 +19,15 @@ namespace Manager.Infra.Context
             builder.ApplyConfiguration(new UserMap());
         }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlServer(@"Data Source=LENILSONNOTE\SQLEXPRESS;Initial Catalog=UserManagerAPI;Integrated Security=True;TrustServerCertificate=True;");
-            }
-        }
+
+        //retirar essa parte daqui depois de utilizar no mapeamento do banco de dados:
+
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    if (!optionsBuilder.IsConfigured)
+        //    {
+        //        optionsBuilder.UseSqlServer(@"Data Source=LENILSONNOTE\SQLEXPRESS;Initial Catalog=UserManagerAPI;Integrated Security=True;TrustServerCertificate=True;");
+        //    }
+        //}
     }
 }
