@@ -3,12 +3,21 @@
 Exemplo de implementação dos Princípios de Arquitetura Limpa com .NET Core . Casos de uso como estrutura de organização central, desacoplados de frameworks e detalhes de tecnologia. Construído por pequenos componentes que são desenvolvidos e testados isoladamente.
 
 
+# APIs Implementadas
+1. Manager API
+Descrição: API responsável por gerenciar [descrição específica da responsabilidade da API Manager].
+Curso: Implementada utilizando o curso do Professor Lucas:  <a href="https://www.youtube.com/watch?v=TovPavZjxOw&list=PLdhhExru1TXcTTm-Mpfg2tN5B_rOTNvzy&index=1&pp=iAQB" target="_blank">doyourcode.github.io/aeds.doc</a>
+
+2. Clean Architecture API
+Descrição: API desenvolvida seguindo os princípios da Arquitetura Limpa.
+Curso: Implementada utilizando o curso do Professor Macorrati:  <a href="https://www.udemy.com/course/clean-architecture-essencial-asp-net-core-com-c/?couponCode=KEEPLEARNING" target="_blank">doyourcode.github.io/aeds.doc</a>
+
+
 
 ## PRINCIPLES and PATTERNS
 
 * Arquitetura Limpa
 * Código Limpo
-* SOLID Principles
 * Princípios SOLID
 * Princípio de Reutilização Comum
 * Estrutura de pasta por recurso
