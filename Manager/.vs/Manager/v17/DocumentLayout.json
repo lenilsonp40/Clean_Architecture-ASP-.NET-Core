@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Estudos\\Dev\\GitHub\\Arquitetura Limpa com .NET\\Manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9903C132-AD19-42A2-B944-53F4C09AABE6}|Manager.API\\Manager.API.csproj|c:\\estudos\\dev\\github\\arquitetura limpa com .net\\manager\\manager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9903C132-AD19-42A2-B944-53F4C09AABE6}|Manager.API\\Manager.API.csproj|solutionrelative:manager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{225976E2-A3DE-460A-B559-B86B71F41E1C}|Manager.Domain\\Manager.Domain.csproj|c:\\estudos\\dev\\github\\arquitetura limpa com .net\\manager\\manager.domain\\validators\\uservalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225976E2-A3DE-460A-B559-B86B71F41E1C}|Manager.Domain\\Manager.Domain.csproj|solutionrelative:manager.domain\\validators\\uservalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225976E2-A3DE-460A-B559-B86B71F41E1C}|Manager.Domain\\Manager.Domain.csproj|c:\\estudos\\dev\\github\\arquitetura limpa com .net\\manager\\manager.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225976E2-A3DE-460A-B559-B86B71F41E1C}|Manager.Domain\\Manager.Domain.csproj|solutionrelative:manager.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225976E2-A3DE-460A-B559-B86B71F41E1C}|Manager.Domain\\Manager.Domain.csproj|c:\\estudos\\dev\\github\\arquitetura limpa com .net\\manager\\manager.domain\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225976E2-A3DE-460A-B559-B86B71F41E1C}|Manager.Domain\\Manager.Domain.csproj|solutionrelative:manager.domain\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,14 +67,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Estudos\\Dev\\GitHub\\Arquitetura Limpa com .NET\\Manager\\Manager.API\\Program.cs",
-              "RelativeDocumentMoniker": "Manager.API\\Program.cs",
-              "ToolTip": "C:\\Estudos\\Dev\\GitHub\\Arquitetura Limpa com .NET\\Manager\\Manager.API\\Program.cs",
-              "RelativeToolTip": "Manager.API\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAA+AAAA",
+              "Title": "UserValidators.cs",
+              "DocumentMoniker": "C:\\Estudos\\Dev\\GitHub\\Arquitetura Limpa com .NET\\Manager\\Manager.Domain\\Validators\\UserValidators.cs",
+              "RelativeDocumentMoniker": "Manager.Domain\\Validators\\UserValidators.cs",
+              "ToolTip": "C:\\Estudos\\Dev\\GitHub\\Arquitetura Limpa com .NET\\Manager\\Manager.Domain\\Validators\\UserValidators.cs",
+              "RelativeToolTip": "Manager.Domain\\Validators\\UserValidators.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T19:18:36.38Z",
+              "WhenOpened": "2024-07-29T19:55:39.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Estudos\\Dev\\GitHub\\Arquitetura Limpa com .NET\\Manager\\Manager.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Manager.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Estudos\\Dev\\GitHub\\Arquitetura Limpa com .NET\\Manager\\Manager.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Manager.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:28:46.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Estudos\\Dev\\GitHub\\Arquitetura Limpa com .NET\\Manager\\Manager.Domain\\Entities\\Base.cs",
+              "RelativeDocumentMoniker": "Manager.Domain\\Entities\\Base.cs",
+              "ToolTip": "C:\\Estudos\\Dev\\GitHub\\Arquitetura Limpa com .NET\\Manager\\Manager.Domain\\Entities\\Base.cs",
+              "RelativeToolTip": "Manager.Domain\\Entities\\Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:17:22.906Z",
               "EditorCaption": ""
             }
           ]

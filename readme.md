@@ -4,13 +4,13 @@ Exemplo de implementação dos Princípios de Arquitetura Limpa com .NET Core . 
 
 
 # APIs Implementadas
-1. Manager API
-Descrição: API responsável por gerenciar [descrição específica da responsabilidade da API Manager].
-Curso: Implementada utilizando o curso do Professor Lucas:  <a href="https://www.youtube.com/watch?v=TovPavZjxOw&list=PLdhhExru1TXcTTm-Mpfg2tN5B_rOTNvzy&index=1&pp=iAQB" target="_blank">doyourcode.github.io/aeds.doc</a>
+1. Manager API :<br>
+API responsável por gerenciar cadastro de novos usuários.<br>
+Implementada utilizando o curso do Professor Lucas:  <a href="https://www.youtube.com/watch?v=TovPavZjxOw&list=PLdhhExru1TXcTTm-Mpfg2tN5B_rOTNvzy&index=1&pp=iAQB" target="_blank">doyourcode.github.io/aeds.doc</a>
 
-2. Clean Architecture API
-Descrição: API desenvolvida seguindo os princípios da Arquitetura Limpa.
-Curso: Implementada utilizando o curso do Professor Macorrati:  <a href="https://www.udemy.com/course/clean-architecture-essencial-asp-net-core-com-c/?couponCode=KEEPLEARNING" target="_blank">doyourcode.github.io/aeds.doc</a>
+2. Clean Architecture API <br>
+API desenvolvida seguindo os princípios da Arquitetura Limpa.<br>
+Implementada utilizando o curso do Professor Macorrati:  <a href="https://www.udemy.com/course/clean-architecture-essencial-asp-net-core-com-c/?couponCode=KEEPLEARNING" target="_blank">doyourcode.github.io/aeds.doc</a>
 
 
 
