@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sistema_ECommerce.Core\Sistema_ECommerce.Core.csproj" />
+    <ProjectReference Include="..\Sistema_ECommerce.Domain\Sistema_ECommerce.Domain.csproj" />
+    <ProjectReference Include="..\Sistema_ECommerce.Infra\Sistema_ECommerce.Infra.csproj" />
+    <ProjectReference Include="..\Sistema_ECommerce.Services\Sistema_ECommerce.Services.csproj" />
+  </ItemGroup>
+
+</Project>
