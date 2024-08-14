@@ -38,7 +38,7 @@ namespace Infra.Configuration
 
         public string ObterStringConexao()
         {
-            return "Data Source=localhost\\SQLEXPRESS;Initial Catalog=API_DDD_2022;Integrated Security=False;User ID=sa;Password=1234;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False";
+            return "Data Source=LENILSONNOTE\\SQLEXPRESS;Initial Catalog=ECommerceDB-DDD;Integrated Security=True;TrustServerCertificate=True;";
         }
 
     }
