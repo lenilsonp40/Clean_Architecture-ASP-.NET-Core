@@ -6,11 +6,11 @@ Exemplo de implementação dos Princípios de Arquitetura Limpa com .NET Core . 
 # APIs Implementadas
 1. Sistema_ECommerce-Clean_Architecture :<br>
 API responsável por gerenciar cadastro de novos usuários em um Ecommerce.<br>
-Implementada utilizando o curso do Professor Lucas:  <a href="https://www.youtube.com/watch?v=TovPavZjxOw&list=PLdhhExru1TXcTTm-Mpfg2tN5B_rOTNvzy&index=1&pp=iAQB" target="_blank">doyourcode.github.io/aeds.doc</a>
+Implementada utilizando o curso do Professor Lucas:  <a href="https://www.youtube.com/watch?v=TovPavZjxOw&list=PLdhhExru1TXcTTm-Mpfg2tN5B_rOTNvzy&index=1&pp=iAQB" target="_blank">Clique aqui!</a>
 
 2. Login_API_DDD <br>
 API desenvolvida seguindo os princípios da Arquitetura Limpa.<br>
-Implementada utilizando o curso do Professor Valdir Ferreira:  <a href="https://www.youtube.com/watch?v=eBqV9Vc8zoo&list=PLP8qOphXwRnIOzXzoviI5xwxcc4-dV_pd" target="_blank">doyourcode.github.io/aeds.doc</a>
+Implementada utilizando o curso do Professor Valdir Ferreira:  <a href="https://www.youtube.com/watch?v=eBqV9Vc8zoo&list=PLP8qOphXwRnIOzXzoviI5xwxcc4-dV_pd" target="_blank">Clique aqui!</a>
 
 
 
